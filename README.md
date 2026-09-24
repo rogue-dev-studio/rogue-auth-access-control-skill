@@ -4,7 +4,7 @@
 
 Expert authentication and authorization engineering: identity lifecycle, session/token handling, password/OTP flows, RBAC/ABAC permission models, default-deny enforcement at every sensitive boundary, and safe audit logging. Use when implementing login/logout, role-permission matrices, policy gates, scoped multi-tenant access, or reviewing authn/authz for APIs and UI routes.
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 - Skill id: `auth-access-control`
 
 ## Install
